@@ -478,6 +478,7 @@ select::-ms-expand {
     font-size: 1rem;
 }
 
+
 #dueto-edit:hover {
     background-color: rgba(61, 61, 61, 0.151);
 }
