@@ -1,0 +1,14 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+html{
+    font-size: 1vw; 
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #242424;
+    overflow-x: hidden;
+}
